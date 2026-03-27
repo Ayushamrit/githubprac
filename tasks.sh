@@ -4,6 +4,8 @@ FILE="tasks.txt"
 
 case "$1" in
   add)
+    echo "$(date): $2" >> $FILE
+    echo "Task added with timestamp!"	
     echo "$2" >> $FILE
     echo "Task added!"
     ;;
