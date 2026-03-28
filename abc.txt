@@ -10,3 +10,7 @@ some changes from branch 1
 
 
 more changes made by branch2
+
+
+
+one more changes in branch 1 is obsorved
