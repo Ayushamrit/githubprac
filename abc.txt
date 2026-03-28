@@ -1,9 +1,12 @@
 hello how are you
 my name is ayush amrit
 
+
 some changes made by branch 1 in this file
 
 some changes are made by branch 2 in this file
 
 some changes from branch 1
 
+
+more changes made by branch2
